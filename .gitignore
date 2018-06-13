@@ -3,3 +3,5 @@
 ################################################################################
 
 /MyCoreSandbox/.vs
+/MyCoreSandbox/MyCoreSandbox/bin/Debug/netcoreapp2.0
+/MyCoreSandbox/MyCoreSandbox/obj
